@@ -89,8 +89,8 @@ while true do
 			elseif currentState == "Break" then
 				task.wait(1)
 
-				timerLabel.Text = "Time to work now!"
-				warn("Time to work now!")
+				timerLabel.Text = "Time to work!"
+				warn("Time to work!")
 				
 				task.wait(INTERMISSION_DURATION - 1)
 				
