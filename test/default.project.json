@@ -1,0 +1,15 @@
+{
+    "name": "BloxcodeCodetime",
+    "globIgnorePaths": [ "**/.package-lock.json" ],
+    "tree": {
+      "$className": "DataModel",
+      "ServerScriptService": {
+        "BloxcodeCodetime": {
+          "$className": "Folder",
+          "BloxcodeCodetime": {
+            "$path": ".."
+          }
+        }
+      }
+    }
+  }

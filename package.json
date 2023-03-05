@@ -1,0 +1,25 @@
+{
+  "name": "codetime",
+  "version": "0.0.5",
+  "description": "Stay focused on your next big project with the Codetime Prmodoro timer Roblox Studio™ plugin.",
+  "main": "default.project.json",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BloxcodeLab/Codetime.git"
+  },
+  "keywords": [
+    "roblox"
+  ],
+  "author": "Bloxcode",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BloxcodeLab/Codetime/issues"
+  },
+  "homepage": "https://github.com/BloxcodeLab/Codetime#readme"
+}
